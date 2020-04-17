@@ -2,6 +2,6 @@
 <playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
         <page name='Tela Inicial'/>
-        <page name='Untitled Page 2'/>
+        <page name='test'/>
     </pages>
 </playground>
